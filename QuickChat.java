@@ -5,7 +5,8 @@ import java.io.IOException;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public class QuickChat {
+public class QuickChat 
+{
     static Scanner scanner = new Scanner(System.in);
     static List<Message> messageList = new ArrayList<>();
 

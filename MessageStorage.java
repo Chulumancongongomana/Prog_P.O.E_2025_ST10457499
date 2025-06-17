@@ -4,7 +4,8 @@ import java.io.IOException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
-public class Message {
+public class Message 
+{
     private static int messageCounter = 0;
     private static JSONArray storedMessages = new JSONArray();
 

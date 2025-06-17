@@ -1,7 +1,8 @@
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-public class MessageTest {
+public class MessageTest 
+{
 
     @Test
     public void testMessageLengthSuccess() {

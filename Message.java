@@ -1,6 +1,7 @@
 import java.util.Random;
 
-public class Message {
+public class Message 
+{
     private String messageID;
     private String recipient;
     private String content;
